@@ -21,12 +21,6 @@ I’m a passionate **developer** and **designer** with deep dedication to **mobi
 
 ---
 
-## 🌱 Currently Learning
-
-- React ⚛️ | Next.js ⚡ | Advanced Flutter 📱
-
----
-
 ## 📫 How to Reach Me
 
 - Email: **fauzella171@gmail.com**
@@ -51,7 +45,15 @@ I’m a passionate **developer** and **designer** with deep dedication to **mobi
   <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,androidstudio,figma,laravel,php,mysql,html,css,js,react,nextjs,nodejs,mongodb,java,python,cpp,git,aws,firebase,xd,ae,pr,photoshop,bootstrap,tailwind,vue,unity,blender&perline=10" />
 </p>
 
+
 ---
+
+## 🌱 Currently Learning
+
+- React ⚛️ | Next.js ⚡ | Advanced Flutter 📱
+
+---
+
 
 ## 📂 Currently Working On
 
