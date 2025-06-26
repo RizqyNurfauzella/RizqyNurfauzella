@@ -9,6 +9,18 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RizqyNurfauzella&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RizqyNurfauzella&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizqyNurfauzella&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RizqyNurfauzella&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=RizqyNurfauzella&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 🚀 About Me
 
 I’m a passionate **developer** and **designer** with deep dedication to **mobile development**, especially using **Flutter** and **Kotlin**.
@@ -55,25 +67,5 @@ I’m a passionate **developer** and **designer** with deep dedication to **mobi
 ## 📂 Currently Working On
 
 **🌲 Pineus Tilu Website** – A full-stack website for eco-lodging experience, focusing on user engagement & booking flow.
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RizqyNurfauzella&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RizqyNurfauzella&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizqyNurfauzella&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RizqyNurfauzella&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RizqyNurfauzella&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 💡 Let's Collaborate!
-
-I’m always open to exciting new projects, freelance work, collaborations, and content creation opportunities.  
-Let’s build something **awesome** together!
 
 ---
