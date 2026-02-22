@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizqy Nurfauzella</h1>
 <p align="center">
-  💻 Mobile & Web Developer | 🎨 UI/UX Designer | 🎥 Motion Graphic Editor  
+  💻 Web & Mobile Developer | 🎨 UI/UX Designer | 🎥 Motion Graphic Editor  
 </p>
 
 <p align="center">
@@ -53,19 +53,11 @@ I’m a passionate **developer** and **designer** with deep dedication to **mobi
 ## 📫 How to Reach Me
 
 - Email: **fauzella171@gmail.com**
-- Fun Fact: _"I feel like I don't have enough time to sleep 😅"_
 
 ---
 
 ## 🌱 Currently Learning
 
 - React ⚛️ | Next.js ⚡ | Advanced Flutter 📱
-
----
-
-
-## 📂 Currently Working On
-
-**🌲 Pineus Tilu Website** – A full-stack website for eco-lodging experience, focusing on user engagement & booking flow.
 
 ---
