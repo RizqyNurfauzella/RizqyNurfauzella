@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  Building intuitive apps. Designing thoughtful experiences.<br/>
-  Bringing <b>code, design, and visual storytelling</b> together.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rizqynurf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:fauzella171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
   <a href="https://www.instagram.com/rizqyynur/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow on Instagram" /></a>
@@ -17,12 +12,6 @@
 </p>
 
 ---
-
-### 👨‍💻 A Little About Me
-
-- 📱 Building mobile apps with **Flutter & Kotlin**, and web applications with **Laravel**.
-- 🎨 Designing interfaces in **Figma**, with **8+ years in video editing & motion graphics**.
-- 🌱 Currently exploring **React, Next.js, and advanced Flutter**.
 
 <h3 align="center">🛠️ My Creative Toolkit</h3>
 
