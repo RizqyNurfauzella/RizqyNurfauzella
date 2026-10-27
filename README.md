@@ -74,10 +74,16 @@
 
 <h3 align="center">📊 GitHub Activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizqyNurfauzella&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=38BDF8&amp;text_color=C9D1D9" height="165" alt="Rizqy Nurfauzella's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizqyNurfauzella&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" height="165" alt="Most used languages across public repositories" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="420">
+      <img src="https://github-readme-stats.vercel.app/api?username=RizqyNurfauzella&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;card_width=390&amp;line_height=20&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=38BDF8&amp;text_color=C9D1D9" width="100%" alt="Rizqy Nurfauzella's GitHub statistics" />
+    </td>
+    <td align="center" valign="middle" width="420">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizqyNurfauzella&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;card_width=390&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" width="100%" alt="Most used languages across public repositories" />
+    </td>
+  </tr>
+</table>
 
 ---
 
