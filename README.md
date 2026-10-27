@@ -24,14 +24,12 @@
 - 🎨 Designing interfaces in **Figma**, with **8+ years in video editing & motion graphics**.
 - 🌱 Currently exploring **React, Next.js, and advanced Flutter**.
 
-<br/>
-
 <h3 align="center">🛠️ My Creative Toolkit</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>📱 Mobile Development</h4>
+    <td align="center" valign="top" width="420">
+      <p><b>📱 Mobile Development</b></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="Flutter" title="Flutter" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" title="Dart" />&nbsp;
@@ -39,8 +37,8 @@
       </p>
       <p><sub>Flutter · Dart · Kotlin</sub></p>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h4>🌐 Web Development</h4>
+    <td align="center" valign="top" width="420">
+      <p><b>🌐 Web Development</b></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="44" height="44" alt="Laravel" title="Laravel" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" alt="PHP" title="PHP" />&nbsp;
@@ -51,8 +49,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>🎨 Design & Motion</h4>
+    <td align="center" valign="top" width="420">
+      <p><b>🎨 Design & Motion</b></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" title="Figma" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="44" height="44" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
@@ -61,8 +59,8 @@
       </p>
       <p><sub>Figma · After Effects · Premiere Pro · Photoshop</sub></p>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h4>⚙️ Data & Tools</h4>
+    <td align="center" valign="top" width="420">
+      <p><b>⚙️ Data & Tools</b></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase" title="Firebase" />&nbsp;
@@ -73,8 +71,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <h3 align="center">📊 GitHub Activity</h3>
 
