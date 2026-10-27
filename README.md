@@ -1,38 +1,91 @@
-<h1 align="center">Rizqy Nurfauzella</h1>
+<h1 align="center">Hi, I'm Rizqy Nurfauzella 👋</h1>
 
 <p align="center">
-  Web & Mobile Developer · UI/UX Designer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Web+%26+Mobile+Developer;UI%2FUX+Designer;Motion+Graphics+%26+Video+Editor" alt="Web and Mobile Developer, UI/UX Designer, Motion Graphics and Video Editor" />
 </p>
 
 <p align="center">
-  Thoughtful design. Purposeful development.
+  Building intuitive apps. Designing thoughtful experiences.<br/>
+  Bringing <b>code, design, and visual storytelling</b> together.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rizqynurf/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:fauzella171@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/rizqyynur/">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@babyr_03">YouTube</a>
+  <a href="https://www.linkedin.com/in/rizqynurf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:fauzella171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+  <a href="https://www.instagram.com/rizqyynur/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow on Instagram" /></a>
+  <a href="https://www.youtube.com/@babyr_03"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Watch on YouTube" /></a>
 </p>
 
 ---
 
-### About
+### 👨‍💻 A Little About Me
 
-I bring development and design together to build intuitive digital experiences. My work spans mobile applications with **Flutter and Kotlin**, web applications with **Laravel**, and interface design in **Figma**.
+- 📱 Building mobile apps with **Flutter & Kotlin**, and web applications with **Laravel**.
+- 🎨 Designing interfaces in **Figma**, with **8+ years in video editing & motion graphics**.
+- 🌱 Currently exploring **React, Next.js, and advanced Flutter**.
 
-With **8+ years of experience in video editing and motion graphics**, I also bring a sense of timing, composition, and visual storytelling to my work.
+<br/>
 
-### Core toolkit
+<h3 align="center">🛠️ My Creative Toolkit</h3>
 
-**Development** &nbsp; Flutter · Kotlin · Laravel  
-**Design** &nbsp; Figma  
-**Motion & video** &nbsp; After Effects · Premiere Pro
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>📱 Mobile Development</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="Flutter" title="Flutter" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" title="Dart" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="44" height="44" alt="Kotlin" title="Kotlin" />
+      </p>
+      <p><sub>Flutter · Dart · Kotlin</sub></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🌐 Web Development</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="44" height="44" alt="Laravel" title="Laravel" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" alt="PHP" title="PHP" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+      </p>
+      <p><sub>Laravel · PHP · JavaScript · Tailwind CSS</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🎨 Design & Motion</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" title="Figma" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="44" height="44" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="44" height="44" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="44" height="44" alt="Adobe Photoshop" title="Adobe Photoshop" />
+      </p>
+      <p><sub>Figma · After Effects · Premiere Pro · Photoshop</sub></p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ Data & Tools</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase" title="Firebase" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="44" height="44" alt="Postman" title="Postman" />
+      </p>
+      <p><sub>MySQL · Firebase · Git · Postman</sub></p>
+    </td>
+  </tr>
+</table>
 
-### Currently exploring
+<br/>
 
-React · Next.js · Advanced Flutter
+<h3 align="center">📊 GitHub Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizqyNurfauzella&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=38BDF8&amp;text_color=C9D1D9" height="165" alt="Rizqy Nurfauzella's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizqyNurfauzella&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9" height="165" alt="Most used languages across public repositories" />
+</p>
 
 ---
 
-Interested in working together? [Let's connect.](mailto:fauzella171@gmail.com)
+<p align="center">
+  <sub>Thoughtful design. Purposeful development.</sub><br/>
+  <sub>Have an idea in mind? <a href="mailto:fauzella171@gmail.com">Let's connect.</a></sub>
+</p>
